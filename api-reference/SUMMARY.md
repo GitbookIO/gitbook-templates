@@ -5,9 +5,9 @@
 ## Reference
 
 * ```yaml
-  type: builtin:openapi
   props:
     models: false
+  type: builtin:openapi
   dependencies:
     spec:
       ref:
