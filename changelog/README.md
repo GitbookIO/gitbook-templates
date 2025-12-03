@@ -14,47 +14,25 @@ layout:
   pagination:
     visible: false
   metadata:
-    visible: false
+    visible: true
 ---
 
 # Changelog
 
-## July 2025
+{% updates format="full" %}
+{% update date="2025-12-03" %}
+## Product update
 
-See what’s new and improved in our July update.
+See what’s new and improved in our latest update.
 
-{% columns %}
-{% column %}
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
-### Product feature #1
+### Product feature
 
 * Feature description
 * Feature description
 
-[Read the documentation](https://www.gitbook.com/)
+<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
 
-### Product feature #2
-
-* Feature description
-* Feature description
-* Feature description
-
-[Read the documentation](https://gitbook.com/)
-
-### Product feature #3
-
-* Feature description
-* Feature description
-* Feature description
-
-[Read the documentation](https://gitbook.com/)
-{% endcolumn %}
-{% endcolumns %}
-
-
+<div align="left"><figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure></div>
 
 <details>
 
@@ -79,25 +57,19 @@ See what’s new and improved in our July update.
 * Product fix
 
 </details>
+{% endupdate %}
 
-***
+{% update date="2025-11-28" %}
+## Product update
 
-## June 2025
+See what’s new and improved in our latest update.
 
-See what’s new and improved in our June update.
-
-{% columns %}
-{% column %}
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
 ### Product feature #1
 
 * Feature description
 * Feature description
 
-[Read the documentation](https://www.gitbook.com/)
+<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
 
 ### Product feature #2
 
@@ -105,11 +77,7 @@ See what’s new and improved in our June update.
 * Feature description
 * Feature description
 
-[Read the documentation](https://gitbook.com/)
-{% endcolumn %}
-{% endcolumns %}
-
-
+<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
 
 <details>
 
@@ -134,3 +102,5 @@ See what’s new and improved in our June update.
 * Product fix
 
 </details>
+{% endupdate %}
+{% endupdates %}
