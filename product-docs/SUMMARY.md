@@ -4,13 +4,24 @@
 
 ## Getting Started
 
+* [Getting started](getting-started/getting-started.md)
 * [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Your first project](getting-started/your-first-project.md)
 
-## Basics
+## Core concepts
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Core concepts](core-concepts/core-concepts.md)
+* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
+* [Permissions](core-concepts/permissions.md)
+
+## Guides
+
+* [Guides](guides/guides.md)
+* [Custom domains](guides/custom-domains.md)
+* [Automations](guides/automations.md)
+
+## Reference
+
+* [Reference](reference/reference.md)
+* [Configuration](reference/configuration.md)
+* [Glossary](reference/glossary.md)
