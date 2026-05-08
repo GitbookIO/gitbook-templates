@@ -14,25 +14,34 @@ layout:
   pagination:
     visible: false
   metadata:
+    visible: false
+  tags:
     visible: true
 ---
 
 # Changelog
 
+
+
 {% updates format="full" %}
-{% update date="2025-12-03" %}
+{% update date="2025-12-03" tags="feature,improvement,fix" %}
 ## Product update
 
 See what’s new and improved in our latest update.
+
+<div align="left"><figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Product feature
 
 * Feature description
 * Feature description
 
-<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
+### Product feature
 
-<div align="left"><figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure></div>
+* Feature description
+* Feature description
+
+<a href="2026/product-update.md" class="button primary">Read full update</a><a href="https://gitbook.com/" class="button secondary">Documentation</a>
 
 <details>
 
@@ -59,25 +68,39 @@ See what’s new and improved in our latest update.
 </details>
 {% endupdate %}
 
-{% update date="2025-11-28" %}
+{% update date="2026-05-08" tags="feature,fix" %}
 ## Product update
 
 See what’s new and improved in our latest update.
 
-### Product feature #1
+<div align="left"><figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure></div>
+
+### Product feature
 
 * Feature description
 * Feature description
 
-<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
+<a href="2026/product-update-1.md" class="button primary">Read full update</a><a href="https://gitbook.com/" class="button secondary">Documentation</a>
 
-### Product feature #2
+<details>
 
-* Feature description
-* Feature description
-* Feature description
+<summary>Fixed</summary>
 
-<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
+* Product fix
+* Product fix
+* Product fix
+* Product fix
+* Product fix
+
+</details>
+{% endupdate %}
+
+{% update date="2025-11-18" tags="improvement,fix" %}
+## Product update
+
+See what’s new and improved in our latest update.
+
+<a href="2025/product-update.md" class="button primary">Read full update</a><a href="https://gitbook.com/" class="button secondary">Documentation</a>
 
 <details>
 
@@ -102,5 +125,22 @@ See what’s new and improved in our latest update.
 * Product fix
 
 </details>
+{% endupdate %}
+
+{% update date="2025-06-09" tags="feature" %}
+## Product update
+
+See what’s new and improved in our latest update.
+
+
+
+<div align="left"><figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure></div>
+
+### Product feature
+
+* Feature description
+* Feature description
+
+<a href="2025/product-update-1.md" class="button primary">Read full update</a><a href="https://gitbook.com/" class="button secondary">Documentation</a>
 {% endupdate %}
 {% endupdates %}
