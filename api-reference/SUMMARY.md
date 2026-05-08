@@ -1,13 +1,10 @@
 # Table of contents
 
-* [Developer Platform API](README.md)
-
-## Reference
-
 * ```yaml
-  props:
-    models: false
   type: builtin:openapi
+  props:
+    models: true
+    downloadLink: true
   dependencies:
     spec:
       ref:
