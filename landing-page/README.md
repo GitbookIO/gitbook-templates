@@ -17,6 +17,10 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: false
 ---
 
 # Developer Platform
@@ -27,7 +31,7 @@ layout:
 
 &#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf" style="color:$primary;">:leaf:</i></h4></td><td><strong>No code</strong></td><td>Get started with the developer platform in 5 minutes.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td><td><a href=".gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td><h4><i class="fa-server" style="color:$primary;">:server:</i></h4></td><td><strong>Hosted</strong></td><td>Learn more about hosting the developer platform.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td><td><a href=".gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td><h4><i class="fa-terminal" style="color:$primary;">:terminal:</i></h4></td><td><strong>API reference</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/M9ty6FYa3j98VSBHF9LN/">API Reference</a></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf" style="color:$primary;">:leaf:</i></h4></td><td><strong>No code</strong></td><td>Get started with the developer platform in 5 minutes.</td><td><a href="https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/quickstart">Quickstart</a></td><td><a href=".gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td><h4><i class="fa-server" style="color:$primary;">:server:</i></h4></td><td><strong>Hosted</strong></td><td>Learn more about hosting the developer platform.</td><td><a href="https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/your-first-project">Your first project</a></td><td><a href=".gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td><h4><i class="fa-terminal" style="color:$primary;">:terminal:</i></h4></td><td><strong>API reference</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/M9ty6FYa3j98VSBHF9LN/">API Reference</a></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr></tbody></table>
 
 &#x20;
 
@@ -107,7 +111,7 @@ For Python, make sure `requests` is available in your environment.
 
 With your first request done, use the guides for deeper setup and the API reference for endpoints and parameters.
 
-<a href="https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started" class="button primary" data-icon="rocket-launch">Get started</a> <a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/M9ty6FYa3j98VSBHF9LN/" class="button secondary" data-icon="terminal">API reference</a>
+<a href="https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/getting-started" class="button primary" data-icon="rocket-launch">Get started</a> <a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/M9ty6FYa3j98VSBHF9LN/" class="button secondary" data-icon="terminal">API reference</a>
 
 &#x20;
 
@@ -257,7 +261,7 @@ If the request succeeds, you should get a response like this:
 
 Read guides, watch tutorials, and learn more about working with the developer platform and integrating it with your own stack.
 
-<a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/rBHPLaxmpwZv1eMYtJSj/" class="button primary" data-icon="book-open">Guides</a> <a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/" class="button secondary" data-icon="book">Documentation</a>
+<a href="https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/guides/guides" class="button primary" data-icon="book-open">Guides</a> <a href="https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/" class="button secondary" data-icon="book">Documentation</a>
 {% endcolumn %}
 {% endcolumns %}
 
