@@ -6,7 +6,7 @@ icon: graduation-cap
 
 Practical walkthroughs for getting things done. Each guide is self-contained — pick the one that matches what you're trying to do.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-globe" style="color:$primary;">:globe:</i></h4></td><td><strong>Custom domains</strong></td><td>Point your own domain at a project, with automatic SSL.</td><td><a href="/broken/pages/9e6489391e0b8b3710eb3e8b11f3f2c0ab53ae7a">Broken link</a></td></tr><tr><td><h4><i class="fa-gear" style="color:$primary;">:gear:</i></h4></td><td><strong>Automations</strong></td><td>React to deploys, comments, or external events with workflows.</td><td><a href="/broken/pages/1961a0c0dfd8029b5b32862472404bead171c798">Broken link</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-globe" style="color:$primary;">:globe:</i></h4></td><td><strong>Custom domains</strong></td><td>Point your own domain at a project, with automatic SSL.</td><td><a href="custom-domains.md">custom-domains.md</a></td></tr><tr><td><h4><i class="fa-gear" style="color:$primary;">:gear:</i></h4></td><td><strong>Automations</strong></td><td>React to deploys, comments, or external events with workflows.</td><td><a href="automations.md">automations.md</a></td></tr></tbody></table>
 
 ***
 

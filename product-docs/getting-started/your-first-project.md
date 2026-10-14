@@ -7,7 +7,7 @@ icon: compass
 
 # Your first project
 
-This walkthrough goes deeper than the [Quickstart](/broken/pages/d8dde992c3b506ec2b54b125e6aef8f498f18ed3). By the end, you'll have a real project with environment variables, a custom build, and a preview deployment workflow.
+This walkthrough goes deeper than the [Quickstart](quickstart.md). By the end, you'll have a real project with environment variables, a custom build, and a preview deployment workflow.
 
 {% hint style="info" %}
 We'll use a generic web project for this tutorial. The same pattern works for static sites, APIs, and worker services.

@@ -18,12 +18,12 @@ Welcome to the platform. These docs cover everything from your first project to 
 {% hint style="success" icon="sparkles" %}
 **New: scheduled deploys and team-level audit logs.** Schedule deploys for any future date and review every action taken in your workspace.
 
-<a href="https://gitbook.com/docs/changelog" class="button secondary">See what's new</a>
+<a href="https://app.gitbook.com/s/euz6U9T9Ui1Un0dUKuuZ/" class="button secondary">See what's new</a>
 {% endhint %}
 
 ## Where to start
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><h4>Getting started</h4></td><td>Set up your account and ship your first project in minutes.</td><td><a href="/broken/pages/PbYb0GukRhiS4qCHdRal">Broken link</a></td></tr><tr><td><h4><i class="fa-book" style="color:$primary;">:book:</i></h4></td><td><h4>Core concepts</h4></td><td>Understand workspaces, projects, and how permissions work.</td><td><a href="/broken/pages/EFXeLTHVDQLFgK0Iy51O">Broken link</a></td></tr><tr><td><h4><i class="fa-graduation-cap" style="color:$primary;">:graduation-cap:</i></h4></td><td><h4>Guides</h4></td><td>Walkthroughs for common tasks like custom domains and automations.</td><td><a href="/broken/pages/oUUNprjFZmH3rqDBvb9h">Broken link</a></td></tr><tr><td><h4><i class="fa-book-open" style="color:$primary;">:book-open:</i></h4></td><td><h4>Reference</h4></td><td>Detailed configuration options, limits, and terminology.</td><td><a href="/broken/pages/AYVJmAXbSHYSDodrPBYA">Broken link</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><h4>Getting started</h4></td><td>Set up your account and ship your first project in minutes.</td><td><a href="getting-started/getting-started.md">getting-started.md</a></td></tr><tr><td><h4><i class="fa-book" style="color:$primary;">:book:</i></h4></td><td><h4>Core concepts</h4></td><td>Understand workspaces, projects, and how permissions work.</td><td><a href="core-concepts/core-concepts.md">core-concepts.md</a></td></tr><tr><td><h4><i class="fa-graduation-cap" style="color:$primary;">:graduation-cap:</i></h4></td><td><h4>Guides</h4></td><td>Walkthroughs for common tasks like custom domains and automations.</td><td><a href="guides/guides.md">guides.md</a></td></tr><tr><td><h4><i class="fa-book-open" style="color:$primary;">:book-open:</i></h4></td><td><h4>Reference</h4></td><td>Detailed configuration options, limits, and terminology.</td><td><a href="reference/reference.md">reference.md</a></td></tr></tbody></table>
 
 ## Popular tasks
 
