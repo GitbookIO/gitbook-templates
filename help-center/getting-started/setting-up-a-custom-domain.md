@@ -52,3 +52,7 @@ Using an apex domain (e.g. `yourcompany.com` without a subdomain)? You'll need t
 **SSL certificate not provisioning** SSL is issued automatically after DNS verification. If it hasn't appeared after 30 minutes, try clicking **Verify** again.
 
 **Site loads but shows an SSL warning** This usually means a cached or old certificate. Try clearing your browser cache, or wait a few more minutes for propagation to complete.
+
+### Related articles
+
+* [Custom domains](https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/guides/custom-domains) — the full guide in the documentation

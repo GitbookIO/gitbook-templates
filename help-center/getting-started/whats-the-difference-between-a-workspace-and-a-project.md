@@ -32,5 +32,7 @@ Switching content between workspaces is not straightforward. If in doubt, start 
 
 ### Related articles
 
-* Inviting team members to your workspace
-* Setting up a custom domain
+* [Inviting team members to your workspace](../admin/inviting-team-members-to-your-workspace.md)
+* [Setting up a custom domain](setting-up-a-custom-domain.md)
+* [Workspaces and projects](https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/core-concepts/workspaces-and-projects) in the documentation
+* [Permissions](https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/core-concepts/permissions) in the documentation

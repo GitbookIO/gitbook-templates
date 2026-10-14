@@ -16,6 +16,10 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: false
 ---
 
 # Help Center
@@ -44,7 +48,7 @@ layout:
 
 &#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3><i class="fa-leaf" style="color:$primary;">:leaf:</i></h3></td><td><h4><strong>Getting started</strong></h4></td><td>Get help with the basics</td><td><a href="/broken/pages/M79vEy5pPyA2JgPF0NTA">Broken link</a></td></tr><tr><td><h3><i class="fa-money-bill-wave" style="color:$primary;">:money-bill-wave:</i></h3></td><td><h4><strong>Plans and billing</strong></h4></td><td>Get help with your billing</td><td><a href="/broken/pages/4bkDITG9fU9dxAMLy6fW">Broken link</a></td></tr><tr><td><h3><i class="fa-computer-mouse" style="color:$primary;">:computer-mouse:</i></h3></td><td><h4><strong>Admin</strong></h4></td><td>Manage your account</td><td><a href="/broken/pages/XvdaniKQcuMdlkDOigqg">Broken link</a></td></tr><tr><td><h3><i class="fa-plug" style="color:$primary;">:plug:</i></h3></td><td><h4><strong>Integrations</strong></h4></td><td>Extend your workflow</td><td><a href="/broken/pages/sY809Cp8jUdtKtqwMxGt">Broken link</a></td></tr><tr><td><h3><i class="fa-bullhorn" style="color:$primary;">:bullhorn:</i></h3></td><td><h4><strong>Product updates</strong></h4></td><td>See what’s new</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/euz6U9T9Ui1Un0dUKuuZ/">Changelog</a></td></tr><tr><td><h3><i class="fa-heart" style="color:$danger;">:heart:</i></h3></td><td><h4><strong>Community</strong></h4></td><td>Join our community</td><td><a href="/broken/pages/rSEsUHhX93x9w8IgjaYM">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3><i class="fa-leaf" style="color:$primary;">:leaf:</i></h3></td><td><h4><strong>Getting started</strong></h4></td><td>Get help with the basics</td><td><a href="https://app.gitbook.com/s/rBHPLaxmpwZv1eMYtJSj/getting-started">Getting started</a></td></tr><tr><td><h3><i class="fa-money-bill-wave" style="color:$primary;">:money-bill-wave:</i></h3></td><td><h4><strong>Plans and billing</strong></h4></td><td>Get help with your billing</td><td><a href="https://app.gitbook.com/s/rBHPLaxmpwZv1eMYtJSj/plans-billing">Plans and billing</a></td></tr><tr><td><h3><i class="fa-computer-mouse" style="color:$primary;">:computer-mouse:</i></h3></td><td><h4><strong>Admin</strong></h4></td><td>Manage your account</td><td><a href="https://app.gitbook.com/s/rBHPLaxmpwZv1eMYtJSj/admin">Admin</a></td></tr><tr><td><h3><i class="fa-plug" style="color:$primary;">:plug:</i></h3></td><td><h4><strong>Integrations</strong></h4></td><td>Extend your workflow</td><td><a href="https://app.gitbook.com/s/rBHPLaxmpwZv1eMYtJSj/integrations">Integrations</a></td></tr><tr><td><h3><i class="fa-bullhorn" style="color:$primary;">:bullhorn:</i></h3></td><td><h4><strong>Product updates</strong></h4></td><td>See what’s new</td><td><a href="https://app.gitbook.com/s/euz6U9T9Ui1Un0dUKuuZ/">Changelog</a></td></tr><tr><td><h3><i class="fa-heart" style="color:$danger;">:heart:</i></h3></td><td><h4><strong>Community</strong></h4></td><td>Join our community</td><td><a href="https://app.gitbook.com/s/rBHPLaxmpwZv1eMYtJSj/community">Community</a></td></tr></tbody></table>
 
 &#x20;
 
@@ -121,7 +125,5 @@ Log in to see articles recommended based on your plan and recent activity.
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
-
-
 
 &#x20;
